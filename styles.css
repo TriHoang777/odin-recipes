@@ -1,0 +1,167 @@
+/*start of index page*/
+#page {
+    background-color: white;
+    background-image: url("https://target.scene7.com/is/image/Target/GUEST_e5f2537d-1517-4758-be6d-ff9a964e249b?wid=488&hei=488&fmt=pjpeg");
+    background-size: cover;
+}
+.homepage-title {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    border-radius: 45%;
+}
+#pho1, #ceviche1, #spaghetti1 {
+    width: 400px;
+    height: 400px;
+    border-radius: 20%;
+}
+a {
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+}
+li :hover
+{
+    color: blue;
+}
+li {
+    text-align: center;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+/*end of index page*/
+
+/*start of pho page*/
+#page2 {
+    background-color: white;
+    background-image: url("https://media.istockphoto.com/photos/bamboo-wood-texture-background-in-creme-beige-color-picture-id1027409886?b=1&k=6&m=1027409886&s=170667a&w=0&h=pmtfLvMwqFqOdHltsS11PPDXkqdyKHp4_CNnNz-eTOo=");
+    background-size: cover;
+}
+.homepage-title1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(211, 182, 104, 0.836);
+    border-radius: 45%;
+}
+#pho-image {
+   width: 400px;
+   height: 400px;
+   border-radius: 20%;
+   display: inline-block;
+   margin-left: 250px;
+ 
+}
+#pho-image2 {
+    width: 400px;
+   height: 400px;
+   border-radius: 20%;
+   display: inline-block;
+   padding-left: 80px;
+   padding-right: 80px;
+   
+}
+#pho-image3 {
+    width: 400px;
+   height: 400px;
+   border-radius: 20%;
+   display: inline-block;
+}
+p {
+    text-align: center;
+    font-size: 24px;
+}
+h2 {
+    text-decoration: underline;
+}
+h3 {
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+}
+li {
+    font-size: 20px;
+}
+.ingredients {
+    text-align: left;
+}
+.soup {
+   text-align: left; 
+}
+.page2li {
+    text-align: left;
+}
+/*end of pho page*/
+
+/*start of ceviche page*/
+#page3 {
+    background-color: lightskyblue;
+    background-image: url("https://images.unsplash.com/photo-1605478185737-99ae313e940c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.homepage-title2 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ceviche-image {
+    width: 500px;
+    height: 500px;
+    border-radius: 20%;
+    display: inline-block;
+    margin-left: 200px;
+}
+.page3h2 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bolder;
+}
+.page3h3 {
+    text-align: left;
+    font-weight: bolder;
+}
+.listeps {
+    text-align: left;
+}
+/*end of ceviche page*/
+
+/*start of spaghetti page*/
+#page4 {
+background-color: rgb(248, 248, 248);
+background-image: url("https://www.nicepng.com/png/detail/164-1645101_disney-ratatouille-remy-ratatouille-with-chef-hat.png");
+background-size: 700px 570px;
+background-repeat: no-repeat;
+background-position-x: right;
+background-position-y: center;
+}
+.homepage-title3 {
+text-align: center;
+font-size: 40px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.spaghetti-image {
+width: 400px;
+height: 400px;
+border-radius: 25%;
+margin-left: 400px;
+}
+.page4p {
+text-align: center;
+font-size: 30px;
+}
+.page4h2 {
+text-align: center;
+}
+.page4ul {
+text-align: center;
+}
+.page4h3, .page4ol{
+text-align: left;
+font-size: 26px;
+}
+/*end of spaghetti page*/
